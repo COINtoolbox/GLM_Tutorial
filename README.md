@@ -6,9 +6,7 @@ Script examples from  a series of papers aimed at illustrating the power of Gene
 
 ## Binomial Regression
 
-## Poisson Regression
-
-## Negative Binomial Regression
+## Count Regression 
 
 
 
