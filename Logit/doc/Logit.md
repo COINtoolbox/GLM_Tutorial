@@ -36,11 +36,16 @@ http://www.rstudio.com
    data=<datafile>)
    display(blr3). 
 ```
-
-## Install Required libraries
+## Bayesian GLM with logit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
-install.packages('ape',dependencies=TRUE)
+ library(arm)
+    bpr <- bayesglm(y~x1+x2+...,
+    family=binomial(link="probit"), 
+    prior.scale=2.5, prior.df=Inf,
+    data=<datafile>)
+    display(bpr).
 ```
+
 ![Logit 3D] 
 (https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/figures/logit3D.png)
 
