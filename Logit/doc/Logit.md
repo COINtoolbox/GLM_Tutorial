@@ -1,4 +1,4 @@
-# Generalized Linear Models in Astronomy
+# Generalized Linear Models in Astronomy-Binomial Regression
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
 
 
