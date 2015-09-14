@@ -9,16 +9,6 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
 http://www.r-project.org
 http://www.rstudio.com
 
-
-## Install Required libraries
-```{r,results='hide',message=FALSE, cache=FALSE}
-install.packages('ape',dependencies=TRUE)
-```
-![Example figure] 
-(https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/figures/logit3D.png)
-
-
-
 ## Bayesian GLM with logit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
   library(arm) 
@@ -47,6 +37,12 @@ install.packages('ape',dependencies=TRUE)
    display(blr3). 
 ```
 
+## Install Required libraries
+```{r,results='hide',message=FALSE, cache=FALSE}
+install.packages('ape',dependencies=TRUE)
+```
+![Logit 3D] 
+(https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/figures/logit3D.png)
 
 
 
