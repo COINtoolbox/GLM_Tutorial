@@ -1,4 +1,4 @@
-# AMADA
+# Generalized Linear Models in Astronomy
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1503.07736)
 [![ascl](http://img.shields.io/badge/ascl-1503.006-blue.svg?style=plastic)](http://ascl.net/1503.006)
 
