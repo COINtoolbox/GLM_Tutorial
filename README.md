@@ -10,10 +10,12 @@ Script examples from  a series of papers aimed at illustrating the power of Gene
 
 Detailed examples presented in [COIN - GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D).
 
-See full tutorial [here](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md).
+See full tutorial [here](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/doc/Logit.md).
 
 ## Count Regression 
 
 Detailed examples presented in [COIN - GLM III](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)
+
+See full tutorial [here](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
 
 
