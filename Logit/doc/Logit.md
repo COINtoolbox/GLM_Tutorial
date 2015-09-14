@@ -9,7 +9,7 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
 http://www.r-project.org
 http://www.rstudio.com
 
-## Bayesian GLM with logit link 
+## Bayesian GLM with probit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
   library(arm) 
   #Output identical to ML logit
