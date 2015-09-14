@@ -19,7 +19,7 @@ http://www.rstudio.com
 install.packages('ape',dependencies=TRUE)
 ```
 ![Example figure] 
-(https://github.com/emilleishida/snclass/blob/emille_dev/snclass/examples/gp-results.png)
+(https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/figures/logit3D.png)
 
 
 
