@@ -19,11 +19,32 @@ install.packages('ape',dependencies=TRUE)
 
 
 
-## Install AMADA R package from github
+## Bayesian GLM with logit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
-require(devtools)
-
-install_github("RafaelSdeSouza/AMADA")
+  library(arm) 
+  #Output identical to ML logit
+   blr1 <- bayesglm(y ~ x1+x2+ ..., 
+   family=binomial(link="logit"),
+   prior.scale=Inf, prior.df=Inf,
+   data=<datafile>)
+   display(blr1)          
+                
+  #Bayes GLM  with default binomial
+  #logit link and  Cauchy prior
+  #with scale=2.5
+   
+   blr2 <- bayesglm(y~x1+x2+...,          
+   family=binomial,
+   data=<datafile>)
+   display(blr2)
+   
+  #Bayes logit with normal prior 
+  #with scale=2.5                    
+   blr3 <- bayesglm(y~x1+x2+..., 
+   family=binomial,
+   prior.scale=2.5, prior.df=Inf,
+   data=<datafile>)
+   display(blr3). 
 ```
 
 
