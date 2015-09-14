@@ -21,6 +21,9 @@ install.packages('ape',dependencies=TRUE)
 
 ## Binomial Regression
 
+## Poisson Regression
+
+## Negative Binomial Regression
 
 
 
