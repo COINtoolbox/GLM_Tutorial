@@ -1,4 +1,4 @@
 
 
 ![Example figure] 
-(https://github.com/emilleishida/snclass/blob/emille_dev/snclass/examples/gp-results.png)
+(https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/figures/logit3D.png)
