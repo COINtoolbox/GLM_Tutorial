@@ -66,30 +66,31 @@ It may contain an arbitrary number of columns and rows. If missing data is prese
 
 If you use this tutorial in your research, we kindly as you to cite the original paper:
 
-[de Souza, R. S.,  *et al.*,  The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations, MNRAS, vol. 453, p.1928-1940](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)
+[de Souza, R. S.,  *et al.*,  The overlooked potential of Generalized Linear Models in astronomy, I: Binomial regression, A&C, vol. 12, p.21-32](http://adsabs.harvard.edu/abs/2015A%26C....12...21D)
 
 The corresponding bibitex entry is:
 
 ```
 
-@ARTICLE{2015MNRAS.453.1928D,
-   author = {{de Souza}, R.~S. and {Hilbe}, J.~M. and {Buelens}, B. and {Riggs}, J.~D. and 
-	{Cameron}, E. and {Ishida}, E.~E.~O. and {Chies-Santos}, A.~L. and 
-	{Killedar}, M.},
-    title = "{The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations}",
-  journal = {\mnras},
+@ARTICLE{2015A&C....12...21D,
+   author = {{de Souza}, R.~S. and {Cameron}, E. and {Killedar}, M. and {Hilbe}, J. and 
+	{Vilalta}, R. and {Maio}, U. and {Biffi}, V. and {Ciardi}, B. and 
+	{Riggs}, J.~D.},
+    title = "{The overlooked potential of Generalized Linear Models in astronomy, I: Binomial regression}",
+  journal = {Astronomy and Computing},
 archivePrefix = "arXiv",
-   eprint = {1506.04792},
+   eprint = {1409.7696},
  primaryClass = "astro-ph.IM",
- keywords = {methods: data analysis, methods: statistical, globular clusters: general},
+ keywords = {Cosmology, First stars, Methods, Statistical, Stars, Population III},
      year = 2015,
-    month = oct,
-   volume = 453,
-    pages = {1928-1940},
-      doi = {10.1093/mnras/stv1825},
-   adsurl = {http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D},
+    month = sep,
+   volume = 12,
+    pages = {21-32},
+      doi = {10.1016/j.ascom.2015.04.002},
+   adsurl = {http://adsabs.harvard.edu/abs/2015A%26C....12...21D},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
 ```
 
 
