@@ -6,8 +6,8 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
 
 ## Install R and Rstudio from 
 
-http://www.r-project.org
-http://www.rstudio.com
+* http://www.r-project.org
+* http://www.rstudio.com
 
 ## Bayesian GLM with probit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
@@ -34,7 +34,7 @@ http://www.rstudio.com
    family=binomial,
    prior.scale=2.5, prior.df=Inf,
    data=<datafile>)
-   display(blr3). 
+   display(blr3)
 ```
 ## Bayesian GLM with logit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
@@ -43,7 +43,7 @@ http://www.rstudio.com
     family=binomial(link="probit"), 
     prior.scale=2.5, prior.df=Inf,
     data=<datafile>)
-    display(bpr).
+    display(bpr)
 ```
 
 ![Logit 3D] 
