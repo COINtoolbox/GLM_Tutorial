@@ -6,8 +6,8 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
 
 ## Install R and Rstudio from 
 
-http://www.r-project.org
-http://www.rstudio.com
+* http://www.r-project.org
+* http://www.rstudio.com
 
 ## Bayesian GLM with probit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
