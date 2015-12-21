@@ -34,7 +34,7 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
    family=binomial,
    prior.scale=2.5, prior.df=Inf,
    data=<datafile>)
-   display(blr3). 
+   display(blr3)
 ```
 ## Bayesian GLM with logit link 
 ```{r,results='hide',message=FALSE, cache=FALSE}
@@ -43,7 +43,7 @@ We elucidate the potential of a particular class of GLMs for handling binary/bin
     family=binomial(link="probit"), 
     prior.scale=2.5, prior.df=Inf,
     data=<datafile>)
-    display(bpr).
+    display(bpr)
 ```
 
 ![Logit 3D] 
