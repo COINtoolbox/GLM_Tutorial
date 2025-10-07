@@ -3,72 +3,69 @@
 
 ## Poisson 
 
-The basic JAGS syntax  for a Poisson GLM model:
+The Poisson GLM assumes that the variance equals the mean (equidispersion).
+Below is the basic JAGS implementation for a Poisson regression with a single predictor x
 
 ```
-GLM.pois<-model{
-#Priors for regression coefficients
-
-beta.0~dnorm(0,0.000001)
-beta.1~dnorm(0,0.000001)
-
-#Poisson GLM Likelihood
-
-for (i in 1:N){
-eta[i]<-beta.0+beta.1*x[i]
-log(mu[i])<-eta[i]
-y[i]~dpois(mu[i])
-              }
+GLM.pois <- model {
+  # Priors for regression coefficients
+  beta.0 ~ dnorm(0, 0.000001)
+  beta.1 ~ dnorm(0, 0.000001)
+  
+  # Poisson GLM Likelihood
+  for (i in 1:N) {
+    eta[i] <- beta.0 + beta.1 * x[i]
+    log(mu[i]) <- eta[i]           # Log link function
+    y[i] ~ dpois(mu[i])
+  }
 }
 ```
 
 ## Negative Binomial
 
-The basic JAGS syntax  for a NB GLM model:
+The Negative Binomial (NB) GLM generalizes the Poisson by introducing an additional parameter k that captures overdispersion.
+When k → ∞, the model converges to the Poisson case.
 
 ```
-GLM.NB<-model{
-#Priors for regression coefficients
-
-beta.0~dnorm(0,0.000001)
-beta.1~dnorm(0,0.000001)
-k~dunif(0.001,10)
-
-#NB GLM Likelihood
-
-for (i in 1:N){
-eta[i]<-beta.0+beta.1*x[i]
-log(mu[i])<-eta[i]
-p[i]<-k/(k+mu[i])
-y[i]~dnegbin(p[i],k)
-              }
+GLM.NB <- model {
+  # Priors for regression coefficients
+  beta.0 ~ dnorm(0, 0.000001)
+  beta.1 ~ dnorm(0, 0.000001)
+  k ~ dunif(0.001, 10)    # Overdispersion parameter
+  
+  # NB GLM Likelihood
+  for (i in 1:N) {
+    eta[i] <- beta.0 + beta.1 * x[i]
+    log(mu[i]) <- eta[i]
+    p[i] <- k / (k + mu[i])
+    y[i] ~ dnegbin(p[i], k)
+  }
 }
 ```
 
-Another approach to fit a NB model in JAGS is via a combination of a Gamma distribution with a Poisson distribution in the form:
+## 🧩 Alternative Formulation: Gamma–Poisson Mixture
+An equivalent hierarchical formulation of the Negative Binomial model treats it as a Gamma–Poisson mixture, which explicitly models extra-Poisson variability.
 
 ```
-GLM.NB<-model{
-#Priors for regression coefficients
-
-beta.0~dnorm(0,0.000001)
-beta.1~dnorm(0,0.000001)
-k~dunif(0.001,10)
-
-#NB GLM Likelihood
-
-for (i in 1:N){
-eta[i]<-beta.0+beta.1*x[i]
-log(mu[i])<-eta[i]
-rateParm[i]<-k/mu[i]
-g[i]~dgamma(k,rateParm[i])
-y[i]~dpois(g[i],k)
-              }
+GLM.NB <- model {
+  # Priors for regression coefficients
+  beta.0 ~ dnorm(0, 0.000001)
+  beta.1 ~ dnorm(0, 0.000001)
+  k ~ dunif(0.001, 10)
+  
+  # Gamma–Poisson formulation
+  for (i in 1:N) {
+    eta[i] <- beta.0 + beta.1 * x[i]
+    log(mu[i]) <- eta[i]
+    rateParm[i] <- k / mu[i]
+     g[i] ~ dgamma(k, rateParm[i])
+    y[i] ~ dpois(g[i])
+  }
 }
+
 ```
 
-![Example figure] 
-(https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/figures/logit3D.png)
+![Example figure](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/figures/logit3D.png)
 
 ## Bibtex entry
 
