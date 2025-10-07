@@ -23,14 +23,14 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ---
 
-## ☀️ Gamma Regression  
+## 📊 Gamma Regression  
 
 📘 **Reference:** [COIN – GLM II](https://adsabs.harvard.edu/abs/2015A&C....10...61E)  
 🎓 **Tutorial:** [Gamma Regression Guide](https://github.com/COINtoolbox/CosmoPhotoz)
 
 ---
 
-## 🌠 Poisson & Negative Binomial Regression  
+## 🎲 Poisson & Negative Binomial Regression  
 
 📘 **Reference:** [COIN – GLM III](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)  
 🎓 **Tutorial:** [Count Data Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
