@@ -1,7 +1,5 @@
 
 # GLM III - Bayesian Negative Binomial Regression and Globular Cluster Populations
-================================================================================
-
 
 ## Poisson 
 
