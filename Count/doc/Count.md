@@ -64,7 +64,7 @@ GLM.NB <- model {
 }
 
 ```
-![Example figure](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/figures/logit3D.png)
+![Example figure](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/figures/m_stv1825fig8.jpeg)
 
 ## Bibtex entry
 
