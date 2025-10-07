@@ -10,7 +10,7 @@
 
 Script examples from  a series of papers aimed at illustrating the power of Generalized Linear Models for astronomical applications.  
 
-## Binomial Regression
+## Logistic Regression
 
 Detailed examples presented in [COIN - GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D).
 
