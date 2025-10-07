@@ -2,8 +2,9 @@
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
-[![MNRAS](https://img.shields.io/badge/Published%20in-MNRAS-%23003B5C?labelColor=%23003B5C&color=%23ED9145&style=flat)]
+[![MNRAS](https://img.shields.io/badge/MNRAS-10.1093%2Fmnras.stv1825-%23003B5C?labelColor=%23003B5C&color=%23ED9145&style=flat)]
 (https://doi.org/10.1093/mnras/stv1825)
+
 
 
 
