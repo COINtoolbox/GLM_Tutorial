@@ -17,10 +17,6 @@ These notebooks showcase practical examples for **logistic**, **gamma**, **Poiss
 📘 **Reference:** [COIN – GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D)  
 🎓 **Tutorial:** [Logistic Regression Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/doc/Logit.md)
 
-Illustrates the use of logistic regression to classify astronomical sources based on observational features.  
-Includes discussions on link functions, deviance, and predictive diagnostics.
-
-
 ---
 
 ## ☀️ Gamma Regression  
@@ -28,20 +24,12 @@ Includes discussions on link functions, deviance, and predictive diagnostics.
 📘 **Reference:** [COIN – GLM II](https://adsabs.harvard.edu/abs/2015A&C....10...61E)  
 🎓 **Tutorial:** [Gamma Regression Guide](https://github.com/COINtoolbox/CosmoPhotoz)
 
-Focuses on modeling continuous, strictly positive responses such as luminosities and fluxes using the **Gamma distribution**.  
-Includes model selection, residual analysis, and uncertainty propagation.
-
-
 ---
 
 ## 🌠 Poisson & Negative Binomial Regression  
 
 📘 **Reference:** [COIN – GLM III](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)  
 🎓 **Tutorial:** [Count Data Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
-
-Demonstrates how **count data** (e.g., globular cluster numbers, photon counts) are better handled by discrete GLMs.  
-Includes overdispersion correction, hierarchical modeling, and Bayesian extensions.
-
 
 ---
 
