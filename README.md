@@ -34,7 +34,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
  **References** 
 - [The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations](https://academic.oup.com/mnras/article/453/2/1928/1154495?login=false)  
-🎓 **Code Snippet:** [Count Data JAGS](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
+🎓 **Code Snippet:** [Count Data (JAGS)](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
 
 - [Modeling Globular Cluster Counts with Bayesian Latent Models](https://academic.oup.com/mnras/article/453/2/1928/1154495?login=false)  
 🎓 **Code Snippet:** [Negative Binomial Model (Nimble)](https://github.com/COINtoolbox/Generalized-Linear-Models-Tutorial/blob/master/Count/scripts/NegBin_nimble.R)
