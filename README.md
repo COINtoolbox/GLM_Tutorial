@@ -48,6 +48,12 @@ If you use any of these materials, please cite:
 > Elliott, J.; de Souza R. et al. (2015), *Astronomy & Computing, 10, 61*  
 > de Souza, R. S. et al. (2015), *MNRAS, 453, 1928*
 
+## 🧩 Related Work  
+
+See also:
+> • Hattab, M. W., de Souza, R. S., Ciardi, B. (2019). *A Case Study of Hurdle and Generalized Additive Models in Astronomy: the Escape of Ionizing Radiation*. (Uses hurdle / GAM hybrid modeling) :contentReference[oaicite:1]{index=1}  
+> • de Souza, R. S., et al. (2016). *Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?* **MNRAS 461**, 2115–2125. (Bayesian logistic regression in galaxy environment context)  
+> • Dantas, Coelho, de Souza, & Gonçalves (2020). *UV-bright red-sequence galaxies: how do UV-upturn systems evolve in redshift and stellar mass?* (Applies Bayesian logistic model among other stats methods)  
 ---
 
 ## 🌍 About COIN  
