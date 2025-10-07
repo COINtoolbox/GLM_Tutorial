@@ -25,7 +25,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ## 📊 Gamma Regression  
 
-📘 **Reference:** [COIN – GLM II](https://adsabs.harvard.edu/abs/2015A&C....10...61E)  
+📘 **Reference:** [The overlooked potential of Generalized Linear Models in astronomy-II: Gamma regression and photometric redshifts](https://www.sciencedirect.com/science/article/abs/pii/S2213133715000037?via%3Dihub)  
 🎓 **Tutorial:** [Gamma Regression Guide](https://github.com/COINtoolbox/CosmoPhotoz)
 
 ---
