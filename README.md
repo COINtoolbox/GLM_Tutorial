@@ -62,5 +62,3 @@ Learn more at [COIN](https://cosmostatistics-initiative.org) and [@COINtoolbox](
 
 ---
 
-> _Community-driven progress over solitary achievement._
-
