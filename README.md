@@ -17,6 +17,11 @@ Detailed examples presented in [COIN - GLM I](http://adsabs.harvard.edu/abs/2015
 See full tutorial [here](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/doc/Logit.md).
 
 
+## Gamma Regression
+
+Detailed examples presented in [COIN - GLM II](https://adsabs.harvard.edu/abs/2015A&C....10...61E).
+
+See full tutorial [here](https://github.com/COINtoolbox/CosmoPhotoz).
 
 
 ## Poisson and Negative Binomial Regression 
