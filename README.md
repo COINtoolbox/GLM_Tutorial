@@ -12,11 +12,13 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ---
 
-## 🪐 Logistic Regression  
+## 🪐 Logistic Regression
 
-📘 **Reference:** 
-      - [COIN – GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D)  
-      - [Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?](https://academic.oup.com/mnras/article/461/2/2115/2608581?login=false)  
+**References**  
+- 📘 [COIN – GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D)  
+- 📄 [Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?](https://academic.oup.com/mnras/article/461/2/2115/2608581?login=false)
+
+      
 🎓 **Tutorial:** [Logistic Regression Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/doc/Logit.md)
 
 ---
