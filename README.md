@@ -16,7 +16,10 @@ Detailed examples presented in [COIN - GLM I](http://adsabs.harvard.edu/abs/2015
 
 See full tutorial [here](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Logit/doc/Logit.md).
 
-## Count Regression 
+
+
+
+## Poisson and Negative Binomial Regression 
 
 Detailed examples presented in [COIN - GLM III](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)
 
