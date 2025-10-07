@@ -3,7 +3,6 @@
 # 🌌 Generalized Linear Models in Astronomy  
 
 [![arXiv](https://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1503.07736)
-[![ADS](https://img.shields.io/badge/ADS-GLM_Series-003B5C.svg?style=plastic&labelColor=ED9145)](https://ui.adsabs.harvard.edu/search/q=author%3A%22de%20Souza%22%20GLM)
 [![MNRAS](https://img.shields.io/badge/MNRAS-10.1093%2Fmnras.stv1825-ED9145.svg?style=plastic&labelColor=003B5C)](https://doi.org/10.1093/mnras/stv1825)
 
 ---
