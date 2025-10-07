@@ -1,5 +1,4 @@
 # <img align="right" src="https://github.com/COINtoolbox/brand-assets/blob/main/logo/COIN_2024_Logo.svg" width="280">
-
 # 🌌 Generalized Linear Models in Astronomy  
 
 [![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696) 
