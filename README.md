@@ -40,6 +40,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ## 🧩 Related Work  
 
+- de Souza, R. S., et al. (2021) [*Probabilistic Modeling of Asteroid Diameters from Gaia DR2 Errors*](https://iopscience.iop.org/article/10.3847/2515-5172/ac205e)
 - Emílio Zanatta et al. (2024) [*NSCs from groups to clusters: a catalogue of dwarf galaxies in the Shapley supercluster and the role of environment in galaxy nucleation*](https://academic.oup.com/mnras/article/530/3/2670/7640866?login=false) (Logistic Regression)
 - Hattab, M. W., de Souza, R. S., Ciardi, B. (2019). [*A Case Study of Hurdle and Generalized Additive Models in Astronomy: the Escape of Ionizing Radiation*](https://academic.oup.com/mnras/article/483/3/3307/5232389?login=false) (Uses hurdle / GAM hybrid modeling)
 - Dantas, Coelho, de Souza, & Gonçalves (2020). [*UV bright red-sequence galaxies: how do UV upturn systems evolve in redshift and stellar mass?*](https://academic.oup.com/mnras/article/492/2/2996/5686724?login=false) (Applies Bayesian logistic model among other stats methods)  
