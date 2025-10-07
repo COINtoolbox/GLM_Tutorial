@@ -1,9 +1,9 @@
 # Generalized Linear Models in Astronomy  
 <img align="right" src="https://github.com/COINtoolbox/brand-assets/blob/main/logo/COIN_2024_Logo.svg" width="280">
 
-[![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696) 
-[![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696) 
-[![arxiv](http://img.shields.io/badge/arXiv-1503.07736-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
+[![arxiv](http://img.shields.io/badge/arXiv-1409.7696-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696) 
+[![arxiv](http://img.shields.io/badge/arXiv-1409.76996-lightgrey.svg?style=plastic)](https://arxiv.org/abs/1409.7699) 
+[![arxiv](http://img.shields.io/badge/arXiv-1506.04792-lightgrey.svg?style=plastic)](https://arxiv.org/abs/1506.04792)
 
 Scripts and tutorials accompanying the **COIN** series of papers illustrating the use of **Generalized Linear Models (GLMs)** for astronomical data analysis.  
 These notebooks showcase practical examples for **logistic**, **gamma**, **Poisson**, and **negative binomial** regressions applied to real astrophysical problems.
