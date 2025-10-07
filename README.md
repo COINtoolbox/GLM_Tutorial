@@ -61,7 +61,7 @@ If you use any of these materials, please cite:
 ## 🌍 About COIN  
 
 The **Cosmostatistics Initiative (COIN)** is a global collaboration focused on developing and disseminating statistical and machine-learning techniques in astronomy.  
-Learn more at [COINtoolbox.org](https://cointoolbox.org) and [@COINtoolbox](https://github.com/COINtoolbox).
+Learn more at [COIN](https://cosmostatistics-initiative.org) and [@COINtoolbox](https://github.com/COINtoolbox).
 
 ---
 
