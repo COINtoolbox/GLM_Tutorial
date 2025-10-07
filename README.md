@@ -28,7 +28,6 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
  **References**
 - [The overlooked potential of Generalized Linear Models in astronomy-II: Gamma regression and photometric redshifts](https://www.sciencedirect.com/science/article/abs/pii/S2213133715000037?via%3Dihub)
 
-- 
 🎓 **Tutorial:** [Gamma Regression Guide](https://github.com/COINtoolbox/CosmoPhotoz)
 
 ---
