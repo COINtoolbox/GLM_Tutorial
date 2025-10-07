@@ -40,14 +40,6 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ---
 
-## 🧩 Citation  
-
-If you use any of these materials, please cite:
-
-> de Souza, R. S. et al. (2015), *Astronomy & Computing, 12, 21*  
-> Elliott, J.; de Souza R. et al. (2015), *Astronomy & Computing, 10, 61*  
-> de Souza, R. S. et al. (2015), *MNRAS, 453, 1928*
-
 ## 🧩 Related Work  
 
 See also:
