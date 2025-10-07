@@ -43,7 +43,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 See also:
 - Hattab, M. W., de Souza, R. S., Ciardi, B. (2019). [*A Case Study of Hurdle and Generalized Additive Models in Astronomy: the Escape of Ionizing Radiation*](https://academic.oup.com/mnras/article/483/3/3307/5232389?login=false) (Uses hurdle / GAM hybrid modeling) 
 -  de Souza, R. S., et al. (2016). [*Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?*](https://academic.oup.com/mnras/article/461/2/2115/2608581?login=false) (Bayesian logistic regression in galaxy environment context)  
--  Dantas, Coelho, de Souza, & Gonçalves (2020). *UV-bright red-sequence galaxies: how do UV-upturn systems evolve in redshift and stellar mass?* (Applies Bayesian logistic model among other stats methods)  
+-  Dantas, Coelho, de Souza, & Gonçalves (2020). [*UV bright red-sequence galaxies: how do UV upturn systems evolve in redshift and stellar mass?*](https://academic.oup.com/mnras/article/492/2/2996/5686724?login=false) (Applies Bayesian logistic model among other stats methods)  
 ---
 
 ## 🌍 About COIN  
