@@ -25,14 +25,18 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ## 📊 Gamma Regression  
 
-📘 **Reference:** [The overlooked potential of Generalized Linear Models in astronomy-II: Gamma regression and photometric redshifts](https://www.sciencedirect.com/science/article/abs/pii/S2213133715000037?via%3Dihub)  
+ **References**
+- [The overlooked potential of Generalized Linear Models in astronomy-II: Gamma regression and photometric redshifts](https://www.sciencedirect.com/science/article/abs/pii/S2213133715000037?via%3Dihub)
+
+- 
 🎓 **Tutorial:** [Gamma Regression Guide](https://github.com/COINtoolbox/CosmoPhotoz)
 
 ---
 
 ## 🎲 Poisson & Negative Binomial Regression  
 
-📘 **Reference:** [The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations](https://academic.oup.com/mnras/article/453/2/1928/1154495?login=false)  
+ **Reference** 
+- [The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations](https://academic.oup.com/mnras/article/453/2/1928/1154495?login=false)  
 🎓 **Tutorial:** [Count Data Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
 
 ---
