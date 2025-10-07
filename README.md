@@ -32,7 +32,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 
 ## 🎲 Poisson & Negative Binomial Regression  
 
-📘 **Reference:** [COIN – GLM III](http://adsabs.harvard.edu/abs/2015MNRAS.453.1928D)  
+📘 **Reference:** [The overlooked potential of generalized linear models in astronomy - III. Bayesian negative binomial regression and globular cluster populations](https://academic.oup.com/mnras/article/453/2/1928/1154495?login=false)  
 🎓 **Tutorial:** [Count Data Guide](https://github.com/COINtoolbox/GLM_Tutorial/blob/master/Count/doc/Count.md)
 
 ---
