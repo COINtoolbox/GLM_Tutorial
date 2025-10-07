@@ -6,7 +6,7 @@
 [![arxiv](http://img.shields.io/badge/arXiv-1506.04792-lightgrey.svg?style=plastic)](https://arxiv.org/abs/1506.04792)
 
 Scripts and tutorials accompanying the **COIN** series of papers illustrating the use of **Generalized Linear Models (GLMs)** for astronomical data analysis.  
-These notebooks showcase practical examples for **logistic**, **gamma**, **Poisson**, and **negative binomial** regressions applied to real astrophysical problems.
+These references showcase practical examples for **Logistic**, **Gamma**, **Poisson**, and **Negative Binomial** regressions applied to real astrophysical problems.
 
 > 🧠 _Part of the COIN Toolbox: advancing community-driven methods in astrostatistics._
 
