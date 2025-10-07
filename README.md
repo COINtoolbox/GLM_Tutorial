@@ -15,7 +15,7 @@ These references showcase practical examples for **Logistic**, **Gamma**, **Pois
 ## 🪐 Logistic Regression
 
 **References**  
-- 📘 [COIN – GLM I](http://adsabs.harvard.edu/abs/2015A%26C....12...21D)  
+- 📘 [The overlooked potential of Generalized Linear Models in astronomy I: Binomial regression](https://www.sciencedirect.com/science/article/abs/pii/S2213133715000360?via%3Dihub)  
 - 📄 [Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?](https://academic.oup.com/mnras/article/461/2/2115/2608581?login=false)
 
       
