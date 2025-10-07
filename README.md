@@ -51,9 +51,9 @@ If you use any of these materials, please cite:
 ## 🧩 Related Work  
 
 See also:
-> Hattab, M. W., de Souza, R. S., Ciardi, B. (2019). [*A Case Study of Hurdle and Generalized Additive Models in Astronomy: the Escape of Ionizing Radiation*](https://academic.oup.com/mnras/article/483/3/3307/5232389?login=false) (Uses hurdle / GAM hybrid modeling) 
->  de Souza, R. S., et al. (2016). *Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?* **MNRAS 461**, 2115–2125. (Bayesian logistic regression in galaxy environment context)  
->  Dantas, Coelho, de Souza, & Gonçalves (2020). *UV-bright red-sequence galaxies: how do UV-upturn systems evolve in redshift and stellar mass?* (Applies Bayesian logistic model among other stats methods)  
+- Hattab, M. W., de Souza, R. S., Ciardi, B. (2019). [*A Case Study of Hurdle and Generalized Additive Models in Astronomy: the Escape of Ionizing Radiation*](https://academic.oup.com/mnras/article/483/3/3307/5232389?login=false) (Uses hurdle / GAM hybrid modeling) 
+-  de Souza, R. S., et al. (2016). *Is the cluster environment quenching the Seyfert activity in elliptical and spiral galaxies?* **MNRAS 461**, 2115–2125. (Bayesian logistic regression in galaxy environment context)  
+-  Dantas, Coelho, de Souza, & Gonçalves (2020). *UV-bright red-sequence galaxies: how do UV-upturn systems evolve in redshift and stellar mass?* (Applies Bayesian logistic model among other stats methods)  
 ---
 
 ## 🌍 About COIN  
